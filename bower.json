@@ -1,0 +1,16 @@
+{
+  "name": "jQuery.news-ticker",
+  "authors": [
+    "Joe <joseph.fehrman@gmail.com>"
+  ],
+  "description": "Simple news ticker.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "Morphext": "^2.4.4"
+  }
+}
