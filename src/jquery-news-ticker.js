@@ -114,7 +114,9 @@
         }
 
         /**
-
+            Get the bootstrap class for alerts.
+            
+            @param story Article element that is active.
         */
         var retrieveBsClass = function(story){
             var type = jQuery(story).attr("type");
