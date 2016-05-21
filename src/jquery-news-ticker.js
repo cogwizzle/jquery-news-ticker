@@ -35,7 +35,7 @@
                 }
 
                 // Create the article div element.
-                var storyDiv = "<div class=\"animated\" type=\"" + type + "\">" + story.title + " : " + story.content + "</div>";
+                var storyDiv = "<div class=\"animated alert\" type=\"" + type + "\">" + story.title + " : " + story.content + "</div>";
                 // Add the news story to the rotator.
                 jQuery(element).append(storyDiv);
             });
