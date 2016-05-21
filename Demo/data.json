@@ -1,1 +1,1 @@
-[{"title": "Test", "content":"This is a test article."}, {"title": "Test2", "content": "This is another test article.", "type": "danger"}]
+[{"title": "Test", "content":"This is a test article.", "type" : "warning"}, {"title": "Test2", "content": "This is another test article.", "type": "danger"}]
